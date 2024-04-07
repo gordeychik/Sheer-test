@@ -1101,6 +1101,10 @@ a:visited {
     transform: rotate(-45deg);
   }
 
+    .home__widget {
+    z-index: 0;
+  }
+
   .categories__item {
     max-width: 410px;
   }
